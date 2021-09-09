@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "47be30aae0e035d1f583480725183e97",
+  "assets/AssetManifest.json": "a3954f3166b4aa9c020346e0235d22e2",
+"assets/assets/images/frases/panda.jpg": "c180e87b00cabdcc0ae20befbb7b387e",
 "assets/assets/images/logo.png": "80a628af1db924e7316a7b174c5ad99f",
 "assets/assets/images/padrao.png": "589c46b59101f6116106c88f390fb683",
 "assets/assets/images/papel.png": "ada35938120c7c8b2a3164cc58fe1756",
@@ -20,9 +21,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "5b1f66bb2b2e15dd757f8a698c2b774a",
-"/": "5b1f66bb2b2e15dd757f8a698c2b774a",
-"main.dart.js": "b224057ec9c7fd6ba8db8e0c356b8f02",
+"index.html": "54d3df648c88e8106ccb364fd953f421",
+"/": "54d3df648c88e8106ccb364fd953f421",
+"main.dart.js": "6521065267a547997c72f90b2d8de017",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
